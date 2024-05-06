@@ -1,0 +1,10 @@
+.out{
+    color: blue;
+    
+}
+
+li{
+    display: block;
+    float: left;
+    padding:0px  50px;
+}
